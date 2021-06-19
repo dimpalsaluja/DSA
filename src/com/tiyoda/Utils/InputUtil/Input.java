@@ -1,4 +1,4 @@
-package com.tiyoda.InputUtil;
+package com.tiyoda.Utils.InputUtil;
 
 import java.io.BufferedReader;
 import java.io.IOException;

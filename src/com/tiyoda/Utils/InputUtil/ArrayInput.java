@@ -1,9 +1,9 @@
-package com.tiyoda.InputUtil;
+package com.tiyoda.Utils.InputUtil;
 
 import java.io.IOException;
 import java.util.StringTokenizer;
 
-public class ArrayInput extends Input{
+public class ArrayInput extends Input {
     private static StringTokenizer st;
     private static int numberOfTokens;
 
